@@ -9,36 +9,36 @@ URL: <https://findyourcoach-90e7d.web.app>
 
 
 1. 登录界面，用户名：781555188@qq.com 密码：123456
-![images](Images/login.png)
+![images](images/login.png)
 
 FireBase后台用户数据展示
 
-![images](Images/firebaseAuth.jpg)
+![images](images/firebaseAuth.jpg)
 
-2. 登录成功后，展示为：
+1. 登录成功后，展示为：
 
-![images](Images/homePage.jpg)
+![images](images/homePage.jpg)
 
 3. 用户可以点击对勾可以过滤需要展示的老师
 
-![images](Images/filter.png)
+![images](images/filter.png)
 
 
 4. 用户点击viewDetail后可以查看教师的详细信息
-![images](Images/viewDetail.png)
+![images](images/viewDetail.png)
 
 5. 如果需要contact某个老师，可以点击contact按钮，然后输入你的邮箱和信息.
 此时后台的数据库，会更新数据库
 
-![images](Images/contact.png)
-![images](Images/contact2.png)
+![images](images/contact.png)
+![images](images/contact2.png)
 
 6. 你可以注册成为老师，点击这个button即可注册
-![images](Images/register.png)
-![images](Images/register2.png)
+![images](images/register.png)
+![images](images/register2.png)
 
 1. 当你作为老师的身份的登陆时候，可以在你的request中查看你收到的信息
-![images](Images/request.png)
+![images](images/request.png)
 
 
 
